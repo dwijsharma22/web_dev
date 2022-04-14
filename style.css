@@ -16,12 +16,12 @@ body{
 }
 
 .name{
-  width: 360px;
+  width: 350px;
   
   text-align: center;
   padding-bottom: 15px;
-  color: white;
-  font-family: "Roboto", sans-serif;
+  color: rgb(252, 247, 247);
+  font-family: "Roboto", algerian;
 }
 
 .container{
